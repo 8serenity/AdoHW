@@ -1,0 +1,6 @@
+c:\users\8\documents\visual studio 2015\Projects\AdoHW\AdoHW\bin\Debug\AdoHW.exe.config
+c:\users\8\documents\visual studio 2015\Projects\AdoHW\AdoHW\bin\Debug\AdoHW.exe
+c:\users\8\documents\visual studio 2015\Projects\AdoHW\AdoHW\bin\Debug\AdoHW.pdb
+c:\users\8\documents\visual studio 2015\Projects\AdoHW\AdoHW\obj\Debug\AdoHW.csprojResolveAssemblyReference.cache
+c:\users\8\documents\visual studio 2015\Projects\AdoHW\AdoHW\obj\Debug\AdoHW.exe
+c:\users\8\documents\visual studio 2015\Projects\AdoHW\AdoHW\obj\Debug\AdoHW.pdb
